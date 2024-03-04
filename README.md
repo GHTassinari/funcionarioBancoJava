@@ -1,2 +1,2 @@
 # funcionarioBancoJava
-Um código utilizando classes em Java, para criar um funcionário.
+Código utilizando classes em Java, para criar um funcionário.
